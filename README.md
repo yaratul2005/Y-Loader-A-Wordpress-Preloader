@@ -53,8 +53,8 @@
 ## 🎥 Demo
 
 <p align="center">
-  <img src="https://placehold.co/600x400/2d3748/fff?text=Spinner+Demo" width="45%">
-  <img src="https://placehold.co/600x400/e2e8f0/2d3748?text=Settings+Panel" width="45%">
+  <img src="https://yaratul.com/wp-content/uploads/2025/07/Screenshot_20250706_213416_Chrome.jpg" width="45%">
+  <img src="https://yaratul.com/wp-content/uploads/2025/07/Screenshot_20250706_215805_Chrome.jpg" width="45%">
 </p>
 
 *Replace with actual screen recordings/GIFs*
