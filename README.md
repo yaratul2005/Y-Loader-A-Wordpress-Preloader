@@ -57,7 +57,7 @@
   <img src="https://yaratul.com/wp-content/uploads/2025/07/Screenshot_20250706_215805_Chrome.jpg" width="45%">
 </p>
 
-*Replace with actual screen recordings/GIFs*
+
 
 ---
 
