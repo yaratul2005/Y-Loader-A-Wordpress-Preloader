@@ -2,7 +2,7 @@
 <!-- Dynamic Banner with Dark/Light Mode Support -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/1280x400/2d3748/e2e8f0?text=✨+Y+Loader&font=raleway">
+    <source media="(prefers-color-scheme: dark)" srcset="https://yaratul.com/wp-content/uploads/2025/07/1000174684.jpg">
     <source media="(prefers-color-scheme: light)" srcset="https://placehold.co/1280x400/e2e8f0/2d3748?text=✨+Y+Loader&font=raleway">
     <img alt="Y Loader Banner" src="https://placehold.co/1280x400/e2e8f0/2d3748?text=✨+Y+Loader&font=raleway" width="100%">
   </picture>
