@@ -1,0 +1,14 @@
+.yl-settings-wrap { margin-top: 20px; max-width: 800px; }
+.yl-settings-wrap h1 { font-size: 26px; font-weight: 600; }
+.yl-settings-wrap form { background: #fff; padding: 1px 25px 25px 25px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 1px 1px rgba(0,0,0,.04); }
+.yl-settings-wrap .form-table { margin-top: 20px; }
+.yl-settings-wrap .form-table th { width: 200px; padding-left: 0; font-weight: 600; color: #333; }
+.yl-settings-wrap .form-table td { padding: 15px 10px; }
+.yl-settings-wrap .form-table tr { border-bottom: 1px solid #f0f0f0; }
+.yl-settings-wrap .form-table tr:last-child { border-bottom: none; }
+.yl-settings-wrap select, .yl-settings-wrap input[type="text"] { min-width: 350px; }
+.yl-settings-wrap .description { font-style: italic; color: #666; }
+.yl-image-preview-wrapper { margin-top: 15px; }
+#yl_image_preview { max-width: 100px; max-height: 100px; border: 1px solid #ddd; padding: 5px; border-radius: 4px; background: #f9f9f9; }
+.yl-settings-wrap .submit .button-primary { background: #007cba; border-color: #007cba; padding: 8px 20px; font-size: 14px; height: auto; transition: background .2s ease-in-out; }
+.yl-settings-wrap .submit .button-primary:hover { background: #005a87; }
