@@ -1,6 +1,4 @@
-Here's the complete, enhanced `README.md` in one optimized snippet with all visual elements:
 
-```markdown
 <!-- Dynamic Banner with Dark/Light Mode Support -->
 <p align="center">
   <picture>
